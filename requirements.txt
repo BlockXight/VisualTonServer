@@ -1,5 +1,5 @@
 fastapi==0.110.1
-mysql_connector_repackaged==0.3.1
+py-mysql==1.0
 Requests==2.31.0
 schedule==1.2.1
 uvicorn==0.29.0

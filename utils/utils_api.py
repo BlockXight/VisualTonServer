@@ -26,7 +26,7 @@ class tx:
 def create_connection():
     try:
         conn = mysql.connector.connect(
-            host="localhost",
+            host="34.80.227.53",
             port=3307,
             user="root",
             password="0505jojo",

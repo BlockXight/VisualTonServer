@@ -5,3 +5,4 @@ pandas==2.1.0
 pyvis==0.3.2
 Requests==2.31.0
 utils==1.0.1
+uvicorn==0.29.0
